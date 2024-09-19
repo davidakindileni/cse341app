@@ -1,0 +1,16 @@
+GET http://localhost:3000 HTTP/1.1
+
+###
+GET http://localhost:3000/tomi HTTP/1.1
+
+###
+GET http://localhost:3000/tolu HTTP/1.1
+
+###
+GET https://cse341app.onrender.com HTTP/1.1
+
+###
+GET https://cse341app.onrender.com/tomi HTTP/1.1
+
+###
+GET https://cse341app.onrender.com/tolu HTTP/1.1
