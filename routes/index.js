@@ -1,5 +1,5 @@
 const routes = require("express").Router();
-const w01Contr = require("../controllers/w01");
+const w01Contr = require("../controllers/index");
 
 routes.get("/", w01Contr.davidRoute);
 routes.get("/tomi", w01Contr.tomiRoute);
